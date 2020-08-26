@@ -1,0 +1,124 @@
+body{
+  background-color: #fadcac;
+  margin:0;
+text-align: center;
+
+
+
+}
+.top-container{
+
+background-color:#fadcac;
+
+}
+.mount{
+position:relative;
+top:50px;
+left:50px;
+}
+h1{
+font-family: 'Pacifico', cursive;
+font-size: 50px;
+color:white;
+line-height: 50px;
+}
+
+p{
+font-family: 'Satisfy', cursive;
+font-size:20px;
+}
+h2{
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+h3{
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
+}
+.title{
+  padding:10px;
+
+  width:800px;
+}
+.lion{
+  border-radius: 50%;
+}
+.profile{
+background-color: #efbbcf;
+margin:0;
+padding: 30px;
+
+}
+.contact-me{
+  background-color: #efbbcf;
+  padding: 20px;
+}
+.web{
+  color:white;
+  font-size: 30px;
+  font-weight: bolder;
+
+}
+.bottom-container{
+  background-color: #158467;
+padding:20px 0 20px 0;
+color:white;
+
+}
+a{
+  color:white;
+margin:10px;
+
+}
+a:hover{
+  color:blue;
+}
+
+
+.myButton {
+	background-color:blue;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+  color:white;
+}
+.skills{
+  text-align: center;
+  padding-bottom:500px;
+}
+.employee{
+  position:absolute;
+
+  left:200px
+}
+.aa
+{
+  text-align: center;
+  position: absolute;
+  left:500px;
+  top:50px;
+}
+.skill-row{
+  position: relative;
+
+}
+.cricket{
+position: absolute;
+top:120px;
+right:80px;
+}
+.b{
+  position: relative;
+  top:400px;
+
+}
